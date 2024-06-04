@@ -1,2 +1,2 @@
 # epl-title-chase
-Visualization of the English Premier League Title Chase for the 23-24 season
+See and interact with the 23-24 English Premier League Title Chase visualization here: https://mdjoh.github.io/epl-title-chase/
